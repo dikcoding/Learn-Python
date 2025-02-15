@@ -1,0 +1,3 @@
+ini adalah contoh text.
+ini adalah contoh kedua.
+ini adalah baris tambahan.
