@@ -22,4 +22,4 @@ print(f"Apakah path adalah file : {is_file}")
 
 # Mengecek apakah sebuah path adalah direktori
 is_dir = os.path.isdir(directori)
-print(f"Apakah path adalah direktori :  {is_dir}")d
+print(f"Apakah path adalah direktori :  {is_dir}")

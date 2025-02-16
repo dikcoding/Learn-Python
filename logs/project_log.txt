@@ -1,0 +1,6 @@
+2025-02-16 08:11:03 - Menghasilkan dataset acak dengan 100 sampel dan menyimpan ke data/dataset_acak.csv
+2025-02-16 08:11:03 - Memuat dataset dari data/dataset_acak.csv
+2025-02-16 08:11:03 - Menyimpan data yang diproses ke data/data_diproses.json
+2025-02-16 08:11:03 - Membagi dataset menjadi set pelatihan dan pengujian dengan ukuran tes 0.2
+2025-02-16 08:11:03 - Melatih model regresi linear
+2025-02-16 08:11:03 - Mengevaluasi model dengan mean squared error (MSE): 801.92

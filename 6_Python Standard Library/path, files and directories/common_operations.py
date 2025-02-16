@@ -9,7 +9,7 @@ def create_directory(path):
     if not path.exists():
         path.mkdir(parents=True)
         print(f"Direktori {path} berhasil dibuat.")
-    else:
+    else:   
         print(f"Direktori {path} sudah ada.")
 
 def create_file(path, content):

@@ -1,0 +1,17 @@
+[
+  {
+    "nama": "Alice",
+    "umur": 30,
+    "kota": "New York"
+  },
+  {
+    "nama": "Bob",
+    "umur": 25,
+    "kota": "Los Angeles"
+  },
+  {
+    "nama": "Charlie",
+    "umur": 35,
+    "kota": "Chicago"
+  }
+]
