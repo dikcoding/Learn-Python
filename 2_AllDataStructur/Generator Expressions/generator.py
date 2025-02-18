@@ -20,7 +20,7 @@ print (list(total))
 print("-------------------")
 number = [2, 4, 6, 8, 9]
 is_all_even = all(x % 2 == 0 for x in number)
-is_any_odd = any(x % 2 != 0 for x in number)
+is_any_odd = any(x % 2 !=  0 for x in number) 
 
 print(is_all_even)
 print(is_any_odd)
