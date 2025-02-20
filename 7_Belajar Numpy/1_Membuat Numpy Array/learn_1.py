@@ -121,11 +121,3 @@ ufunc_result = custom_function(np.array([1, 2, 3, 4], dtype=np.float32))
 print("Hasil dari np.ufunc custom_function:")
 print(ufunc_result)
 print("-----------------------------------------")
-
-# Menggunakan array API standar untuk interoperabilitas
-# Membuat array menggunakan array API standar
-array_api = np.array_api
-standard_array = array_api.asarray([1, 2, 3, 4], dtype=array_api.float32)
-print("Array menggunakan array API standar:")
-print(standard_array)
-print("-----------------------------------------")
