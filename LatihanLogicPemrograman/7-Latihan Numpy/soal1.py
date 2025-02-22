@@ -7,7 +7,7 @@ data = np.array([
     [150, 5, 1500]
 ])
 
-print("Buat array 2D dengan NumPy : \n", data)
+print("Bua  t array 2D dengan NumPy : \n", data)
 
 print("Ambil baris pertama menggunakan indexing : \n", data[0])
 
