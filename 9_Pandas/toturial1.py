@@ -1,8 +1,8 @@
 """
 1. Impor paket, aliasimport pandas as pd
 2. Tabel data disimpan sebagai pandasDataFrame
-3. Setiap kolom dalam a DataFrameadalahSeries
-4. Anda dapat melakukan sesuatu dengan menerapkan suatu metode ke suatu DataFrameatauSeries
+3. Setiap kolom dalam a DataFrame adalah Series
+4. Anda dapat melakukan sesuatu dengan menerapkan suatu metode ke suatu DataFrame atau Series
 """
 
 import pandas as pd

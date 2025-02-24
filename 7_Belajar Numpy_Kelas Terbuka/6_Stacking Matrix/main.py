@@ -15,4 +15,5 @@ d = np.vstack((a,b))
 cMat = np.hstack((aMat,bMat))
 dMat = np.vstack((aMat,bMat))
 
+print(cMat)
 print(dMat)
